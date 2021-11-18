@@ -1,0 +1,10 @@
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\bin\Debug\Do_List.exe.config
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\bin\Debug\Do_List.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\bin\Debug\Do_List.pdb
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\obj\Debug\Do_List.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\obj\Debug\Do_List.Form1.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\obj\Debug\Do_List.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\obj\Debug\Do_List.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\obj\Debug\Do_List.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\obj\Debug\Do_List.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\29\Do_List\Do_List\obj\Debug\Do_List.pdb
